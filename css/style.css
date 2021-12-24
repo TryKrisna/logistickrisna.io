@@ -172,10 +172,10 @@ padding-top: 20px;
     z-index: 10002;
     padding: 10px;
     transition: 0.3s;
-    /* display: none; */
+    display: none;
 }
 .search.active{
-    /* display: block; */
+    display: block;
     margin-top: 0;
     /* background-color: red; */
 }
