@@ -702,6 +702,7 @@ padding-top: 20px;
     padding: 9px;
     width: 150px;
     border-radius: 4px;
+    cursor:pointer;
 }
 .item-box:hover .box .txt-box .btn-cart{
     background: orangered;
